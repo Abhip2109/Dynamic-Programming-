@@ -1,0 +1,5 @@
+knapsack basically is like bag or container,in which we have to put item to maximize our profit according to weights and their value
+types of knapsack:-
+a) fractional knapsack [solve by greedy not dp]
+b) 0/1 knapsack
+c) unbounded knapsack
